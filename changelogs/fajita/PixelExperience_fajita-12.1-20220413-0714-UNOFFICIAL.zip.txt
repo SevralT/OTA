@@ -1,0 +1,15 @@
+ROM Changelog
+===============
+- Merged new April Security Patch
+- Fixed charging animation not appearing
+- Fixed unlock sound playing repeatedly
+- Updated translations
+- Others fixes
+
+DEVICE Changelog
+================
+- Rebased with latest LOS trees
+- Added Quick Tap feature
+- Allowed more background apps
+- Re-enabled F2FS-formated userdata in fstab
+- Other fixes and improvements (in kernel too)
