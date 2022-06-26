@@ -1,0 +1,15 @@
+ROM Changelog
+===============
+- Merged new June Security Patch
+- Updated translations
+- Fixed video playback issues on some devices
+- Fixed styling issues on DocumentsUI
+- Fixed ringtone selection for devices with e-SIM
+- Fixed location indicator showing when no apps running
+- Fixed app font on Pixel Launcher
+- Other minor issues have been fixed
+
+DEVICE Changelog
+================
+- Rebased with latest LOS trees
+
