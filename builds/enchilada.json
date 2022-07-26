@@ -3,18 +3,18 @@
   "maintainers": [
     {
       "main_maintainer": true,
-      "github_username": "optimus",
-      "name": "optimuspriime|vikas"
+      "github_username": "SevralT",
+      "name": "Alexander Chycherin"
     }
   ],
-  "donate_url": "https://t.me/OptimussPriime",
-  "website_url": "https://t.me/peop6series",
-  "news_url": "https://t.me/peop6series",
-  "datetime": 1648972966,
-  "filename": "PixelExperience_enchilada-12.1-20220403-0802-UNOFFICIAL.zip",
-  "id": "273c236032401190147ca48102d8380d11abb961de3556c91f2bb5cb9bc56388",
-  "size": 1351962632,
-  "url": "https://sourceforge.net/projects/pixelexperience-oneplus6series/files/enchilada/ota/PixelExperience_enchilada-12.1-20220403-0802-UNOFFICIAL.zip/download",
+  "donate_url": "https://t.me/sevralt",
+  "website_url": "https://t.me/sevralt_chat",
+  "news_url": "https://t.me/sevralt_updates",
+  "datetime": 1658790751,
+  "filename": "PixelExperience_enchilada-12.1-20220725-2315-UNOFFICIAL.zip",
+  "id": "9a1a3deb7df0c93faee21b5dcafb8f52ebba9f946ed3c9aa49bcf22db744f37e",
+  "size": 1397264110,
+  "url": "https://sourceforge.net/projects/sevralt-roms/files/PixelExperience-12.1/PixelExperience_enchilada-12.1-20220725-2315-UNOFFICIAL.zip/download",
   "version": "twelve",
-  "filehash": "429c539376a727e968fb66760b30f47d"
+  "filehash": "2d55d5665131d1b7f52214a2dad12d59"
 }
