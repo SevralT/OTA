@@ -1,0 +1,20 @@
+{
+  "error": false,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "SevralT",
+      "name": "Alexander Chycherin"
+    }
+  ],
+  "donate_url": "https://t.me/sevralt",
+  "website_url": "https://t.me/sevralt_chat",
+  "news_url": "https://t.me/sevralt_updates",
+  "datetime": 1660498012,
+  "filename": "PixelExperience_Plus_fajita-12.1-20220814-1729-UNOFFICIAL.zip",
+  "id": "4b0b9cbc88227276960d816a08b99325a3dbdc2d49d7e30d087f128b0469ef0e",
+  "size": 1407891014,
+  "url": "https://sourceforge.net/projects/sevralt-roms/files/PixelExperience-12.1/PixelExperience_Plus_fajita-12.1-20220814-1729-UNOFFICIAL.zip/download",
+  "version": "twelve_plus",
+  "filehash": "c62661c51669053aca282ccbdc435a81"
+}

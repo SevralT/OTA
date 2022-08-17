@@ -1,0 +1,20 @@
+{
+  "error": false,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "SevralT",
+      "name": "Alexander Chycherin"
+    }
+  ],
+  "donate_url": "https://t.me/sevralt",
+  "website_url": "https://t.me/sevralt_chat",
+  "news_url": "https://t.me/sevralt_updates",
+  "datetime": 1660648839,
+  "filename": "PixelExperience_Plus_enchilada-12.1-20220816-1123-UNOFFICIAL.zip",
+  "id": "3c032d2179463654f00840cb395b66dfb04c8eeec7ea66c5064f010c94da6897",
+  "size": 1406099189,
+  "url": "https://sourceforge.net/projects/sevralt-roms/files/PixelExperience-12.1/PixelExperience_Plus_enchilada-12.1-20220816-1123-UNOFFICIAL.zip/download",
+  "version": "twelve_plus",
+  "filehash": "998455c59f4d1842e5d68c56d0d9cc05"
+}
